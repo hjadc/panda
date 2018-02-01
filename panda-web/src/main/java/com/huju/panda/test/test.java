@@ -9,4 +9,9 @@ public class test {
             System.out.println("哈哈哈。。。"+i);
         }
     }
+
+
+    public static void check(){
+        int p = 3;
+    }
 }
