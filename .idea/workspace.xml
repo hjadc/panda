@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="075f6a36-b649-4613-9429-318a82c279d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panda-web/src/main/java/com/huju/panda/test/test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/panda_web_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/panda_web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -96,10 +87,10 @@
             <state relative-caret-position="340">
               <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
               <folding>
-                <marker date="1517496045869" expanded="true" signature="57955:57997" ph="..." />
-                <marker date="1517496045869" expanded="true" signature="57955:58015" ph="..." />
-                <marker date="1517496045869" expanded="true" signature="57955:58028" ph="..." />
-                <marker date="1517496045869" expanded="true" signature="57955:58043" ph="..." />
+                <marker date="1517496060875" expanded="true" signature="57992:58034" ph="..." />
+                <marker date="1517496060875" expanded="true" signature="57992:58052" ph="..." />
+                <marker date="1517496060875" expanded="true" signature="57992:58065" ph="..." />
+                <marker date="1517496060875" expanded="true" signature="57992:58080" ph="..." />
               </folding>
             </state>
           </provider>
@@ -808,12 +799,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517492421072</updated>
-      <workItem from="1517492425847" duration="3554000" />
+      <workItem from="1517492425847" duration="3615000" />
     </task>
+    <task id="LOCAL-00001" summary="清除不需要提交的，并设置不需要提交的文件">
+      <created>1517496112066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517496112066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3554000" />
+    <option name="totallyTimeSpent" value="3615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -898,6 +897,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="清除不需要提交的，并设置不需要提交的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="清除不需要提交的，并设置不需要提交的文件" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -955,10 +958,10 @@
         <state relative-caret-position="340">
           <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
           <folding>
-            <marker date="1517496045869" expanded="true" signature="57955:57997" ph="..." />
-            <marker date="1517496045869" expanded="true" signature="57955:58015" ph="..." />
-            <marker date="1517496045869" expanded="true" signature="57955:58028" ph="..." />
-            <marker date="1517496045869" expanded="true" signature="57955:58043" ph="..." />
+            <marker date="1517496060875" expanded="true" signature="57992:58034" ph="..." />
+            <marker date="1517496060875" expanded="true" signature="57992:58052" ph="..." />
+            <marker date="1517496060875" expanded="true" signature="57992:58065" ph="..." />
+            <marker date="1517496060875" expanded="true" signature="57992:58080" ph="..." />
           </folding>
         </state>
       </provider>
