@@ -13,6 +13,7 @@ public class test {
 
 
     public static void check(){
+        String aa = "开放的";
         for (int p = 0;p<3;p++){
             System.out.println("德玛西亚...");
         }
